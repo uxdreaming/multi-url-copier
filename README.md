@@ -47,3 +47,7 @@ Press `Alt+Shift+U` to instantly copy all URLs from the page to clipboard, one p
 ## License
 
 MIT
+
+---
+
+*Maintained by [uxdreaming](https://github.com/uxdreaming)*
